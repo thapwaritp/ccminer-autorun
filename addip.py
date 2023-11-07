@@ -9,7 +9,7 @@ def banner():
 	os.system("figlet -f big VERUS")
 	os.system("figlet -f digital http-server")
 	print("\033[00m\n")
-	print("\033[95mEdit by PICHET SAENGTEWAN\033[0m")
+	print("\033[95mEdit by THAPWARIT PRUEKTRANON\033[0m")
 	print("\033[36m\033[0m")
 
 def setip():
